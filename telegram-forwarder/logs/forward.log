@@ -1,0 +1,22 @@
+[2025-06-14 15:34:43.238412] Mesaj yönlendirme hatasý: Cannot cast NoneType to any kind of Peer.
+[2025-06-14 15:34:55.382626] Mesaj yönlendirme hatasý: Cannot cast NoneType to any kind of Peer.
+[2025-06-14 16:41:59.866846] Kaynak kanal ayarlama hatasý: Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\w\d]{3,30}[a-zA-Z\d]" (caused by ResolveUsernameRequest)
+[2025-06-14 16:45:47.280282] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@https://t.me/+lBT-mza2qUk5Y2Rk"
+[2025-06-14 16:49:34.907125] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@2401922027"
+[2025-06-14 16:49:59.908337] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@2401922027"
+[2025-06-14 16:50:39.395698] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@2401922027"
+[2025-06-14 16:52:24.886803] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@2401922027"
+[2025-06-14 16:54:07.852519] Hedef kanal ayarlama hatasý: Cannot find any entity corresponding to "@4820044419"
+[2025-06-14 17:51:32.208560] Hedef kanal ayarlama hatasý: Cannot find any entity corresponding to "@2832210813"
+[2025-06-14 18:01:51.171485] Hedef kanal ayarlama hatasý: Cannot find any entity corresponding to "@2832210813"
+[2025-06-14 18:14:49.425422] Kaynak kanal ID ayarlama hatasý: invalid literal for int() with base 10: '@mrdemirkoll'
+[2025-06-14 18:16:55.782674] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@2401922027"
+[2025-06-14 18:19:15.523290] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@854582141"
+[2025-06-14 18:20:17.440409] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@2401922027"
+[2025-06-14 18:34:11.460035] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@2832210813"
+[2025-06-14 18:34:48.739974] Hedef kanal ayarlama hatasý: Cannot find any entity corresponding to "@854582141"
+[2025-06-14 18:37:33.878131] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@2795036635"
+[2025-06-14 18:52:57.407870] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@-1002795036635"
+[2025-06-14 18:55:41.117718] Kaynak kanal ayarlama hatasý: Cannot find any entity corresponding to "@-1002401922027"
+[2025-06-14 18:56:46.044351] Hedef kanal ayarlama hatasý: Cannot find any entity corresponding to "@-1002832210813"
+[2025-06-14 19:00:05.221259] Hedef kanal ayarlama hatasý: Cannot find any entity corresponding to "@2832210813"
