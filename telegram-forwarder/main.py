@@ -21,7 +21,9 @@ def log_error(message):
     with open('logs/forward.log', 'a') as f:
         f.write(f"[{datetime.now()}] {message}\n")
 
-client = TelegramClient(os.path.join(SESSION_DIR, 'user'), api_id, api_hash)
+# Session dosyası için benzersiz bir isim oluştur
+session_name = f'user_{datetime.now().strftime("%Y%m%d_%H%M%S")}'
+client = TelegramClient(os.path.join(SESSION_DIR, session_name), api_id, api_hash)
 
 # OWNER_ID'yi settings.json'dan oku
 def get_owner_id():
